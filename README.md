@@ -32,8 +32,7 @@ JavaScript (Vanilla/ES6) – Interactivity
 
 1.Clone the repository:
 
-git clone https://github.com/jashwanthreddy21/E-Commerce-Product-Page.git
-
+git clone https://github.com/2303A53017/Product-Landing-Page.git
 2.Navigate into the project folder:
 
 cd E-Commerce-Product-Page
